@@ -1,1 +1,1 @@
-# mina.info
+# info.github.io
